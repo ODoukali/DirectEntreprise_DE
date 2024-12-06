@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Code postal</name>
+   <tag></tag>
+   <elementGuidId>ccbe8177-b6ae-4196-a25b-e85788c0264c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dossierForm:j_id158_body']/div[6]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>686f3859-1a26-4ca0-99fd-29b6bbf9b4b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>dossierForm:refCodePostalPanel</value>
+      <webElementGuid>4c596ce5-2179-4b08-bcd1-e0890c5e2488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-4</value>
+      <webElementGuid>f97f6be7-9de4-4dc8-befc-dbfecc60bbc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Code postal</value>
+      <webElementGuid>56f4c945-5ac3-49ee-b90f-d25509227043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dossierForm:j_id158_body&quot;)/div[@class=&quot;form-group&quot;]/label[@class=&quot;col-md-4&quot;]</value>
+      <webElementGuid>3041199e-54e4-411d-a11e-3b13f71cf5c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dossierForm:j_id158_body']/div[6]/label</value>
+      <webElementGuid>c3efba7c-6718-4181-854e-0b0fdd61509f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tribunal'])[1]/following::label[1]</value>
+      <webElementGuid>685926fe-57c8-45d6-bca1-8ca4e0c826fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/following::label[2]</value>
+      <webElementGuid>a47b76ff-cebd-4e52-b449-4065ed0b6a08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[11]/preceding::label[1]</value>
+      <webElementGuid>0c00418b-19f5-4555-893d-f9e51d3ed8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Code postal']/parent::*</value>
+      <webElementGuid>fb58e5ea-27ab-43b3-8ac5-06e68e35a8e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[6]/label</value>
+      <webElementGuid>6f14fb7f-decd-41cc-bff9-2e229f38e018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Code postal' or . = 'Code postal')]</value>
+      <webElementGuid>be108de4-f1f9-4e6e-8fea-4b27e2c5a811</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

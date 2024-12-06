@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Beat SPAM with the best disposable emai_09bd5b</name>
+   <tag></tag>
+   <elementGuidId>89ccd5ab-9bfb-4cdf-8744-3f789f93e4ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main_content']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mail_address</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>41ad1609-65b0-4559-894a-c250bd6df964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mail_address</value>
+      <webElementGuid>97908b8b-f266-497f-aef5-cdce3ceac594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_content&quot;)/div[@class=&quot;content&quot;]/div[@class=&quot;mail_section&quot;]/div[@class=&quot;mail_address&quot;]</value>
+      <webElementGuid>d5c621fc-d24b-48cf-a690-ab793d22ae71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main_content']/div/div/div[2]</value>
+      <webElementGuid>e524abc6-5e36-4a41-b033-88fae9efbbc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beat SPAM with the best disposable email service'])[1]/following::div[12]</value>
+      <webElementGuid>61cc83c1-1f3e-477f-ab67-56f261b15d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valueimpression'])[1]/following::div[15]</value>
+      <webElementGuid>bb76430b-1277-45f4-adee-3a0a869dfaaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get 10 more minutes'])[1]/preceding::div[7]</value>
+      <webElementGuid>a8af610c-1d1f-433d-a063-3c7ef3d0b88a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]</value>
+      <webElementGuid>bfcf0543-2520-44be-8027-ac58cb9faa29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

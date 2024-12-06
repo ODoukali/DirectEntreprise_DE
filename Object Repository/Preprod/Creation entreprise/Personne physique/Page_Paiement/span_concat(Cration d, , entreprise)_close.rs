@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_concat(Cration d, , entreprise)_close</name>
+   <tag></tag>
+   <elementGuidId>44bb7f40-1390-470b-8903-dec8025c3164</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.showMenu > nav > span.close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu-sidebar']/div[2]/nav/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>nav >> internal:has-text=&quot;Création d'entreprisePersonne moraleNouveau dossierRecherche des dossiersSuccurs&quot;i >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5240b94b-0600-4f08-a559-296450aa4ee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>5c7468f6-101c-4821-9e56-fcf560634b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>no</value>
+      <webElementGuid>56eca08e-12dd-4876-a2c3-f215b8d580c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-sidebar&quot;)/div[@class=&quot;showMenu&quot;]/nav[1]/span[@class=&quot;close&quot;]</value>
+      <webElementGuid>acd9893a-96d2-49b6-9216-a76b4dadae3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu-sidebar']/div[2]/nav/span</value>
+      <webElementGuid>a59241e4-da3b-4897-95bd-109dd77075db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/nav/span</value>
+      <webElementGuid>b32791ac-5207-4a27-99cc-c068b7b4a944</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Login ou mot de passe erron (1)</name>
+   <tag></tag>
+   <elementGuidId>91cd056e-2232-44e9-98a1-b597c89bd2a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.alert.alert-danger.alert-dismissible</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='j_id41:messages']/ul[3]/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;j_id41\:messages&quot;] >> internal:role=listitem</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>755b18d1-9259-40a1-8cf5-d1a638a03aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-danger alert-dismissible</value>
+      <webElementGuid>fc5502b5-4f45-488d-abbd-6dfa450459e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>no</value>
+      <webElementGuid>7c3eaa1d-3379-4886-845e-7b3308a5686a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>	Login ou mot de passe erroné. </value>
+      <webElementGuid>6c683167-f98c-4b89-8cb8-3ce6e3bf92b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;j_id41:messages&quot;)/ul[3]/li[@class=&quot;alert alert-danger alert-dismissible&quot;]</value>
+      <webElementGuid>7a40755e-72db-455d-9b6e-a989110aefba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='j_id41:messages']/ul[3]/li</value>
+      <webElementGuid>a90c321d-cf48-42f3-b7b5-bb417be42dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='inscrit'])[1]/following::li[3]</value>
+      <webElementGuid>9a200b50-ee9c-4be6-b532-c552a7e81620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::li[1]</value>
+      <webElementGuid>de7f1f7c-bdf4-45e3-9118-309cd09afdba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mot de passe'])[1]/preceding::li[1]</value>
+      <webElementGuid>2cd9b3ab-658c-49e8-8700-27805b9519db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[3]/li</value>
+      <webElementGuid>3da371a2-a5e6-4a73-a4a1-7c43ce1c9b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '	Login ou mot de passe erroné. ' or . = '	Login ou mot de passe erroné. ')]</value>
+      <webElementGuid>ed179931-2dc3-4d0e-9b8a-5f6a34fc0562</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

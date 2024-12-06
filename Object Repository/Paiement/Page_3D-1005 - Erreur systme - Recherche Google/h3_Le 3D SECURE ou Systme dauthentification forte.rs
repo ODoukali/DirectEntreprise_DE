@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Le 3D SECURE ou Systme dauthentification forte</name>
+   <tag></tag>
+   <elementGuidId>5c48c3bd-9a38-4299-a228-a82e57a3f7b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.LC20lb.MBeuO.DKV0Md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rso']/div/div/div/div/div/div/div/a/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>30a23c1c-d846-402f-b573-31ccb0ed9ca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LC20lb MBeuO DKV0Md</value>
+      <webElementGuid>f824348f-8a6d-4a8b-8d48-decd7b27957a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Le 3D SECURE ou Système d'authentification forte</value>
+      <webElementGuid>047d57d1-8701-4fc1-85e3-eb426c99e1f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rso&quot;)/div[@class=&quot;hlcw0c&quot;]/div[@class=&quot;MjjYud&quot;]/div[@class=&quot;g Ww4FFb vt6azd tF2Cxc asEBEc&quot;]/div[@class=&quot;kvH3mc BToiNc UK95Uc&quot;]/div[@class=&quot;Z26q7c UK95Uc jGGQ5e&quot;]/div[@class=&quot;yuRUbf&quot;]/div[1]/a[1]/h3[@class=&quot;LC20lb MBeuO DKV0Md&quot;]</value>
+      <webElementGuid>1d77ccd3-677b-4294-bb37-4f4d65aff1b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rso']/div/div/div/div/div/div/div/a/h3</value>
+      <webElementGuid>2f9c32cf-c440-4d24-bf0e-d39d9fc428a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Résultats de recherche'])[1]/following::h3[1]</value>
+      <webElementGuid>b6b0fc7c-ccc2-475f-9763-7cf8457e10cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Se connecter'])[1]/following::h3[1]</value>
+      <webElementGuid>fe047cf5-11e2-4fdb-a6bd-1f460e5fe203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Le centre monétique interbancaire'])[1]/preceding::h3[1]</value>
+      <webElementGuid>47d32250-4828-44ed-929d-a7bb6b350bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>b822f1b2-7dde-4217-a7a1-ec378e5d5199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = concat(&quot;Le 3D SECURE ou Système d&quot; , &quot;'&quot; , &quot;authentification forte&quot;) or . = concat(&quot;Le 3D SECURE ou Système d&quot; , &quot;'&quot; , &quot;authentification forte&quot;))]</value>
+      <webElementGuid>c64805a5-5223-4d7b-9066-895454395eb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

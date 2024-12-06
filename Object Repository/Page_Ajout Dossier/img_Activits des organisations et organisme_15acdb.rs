@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Activits des organisations et organisme_15acdb</name>
+   <tag></tag>
+   <elementGuidId>d3995261-e401-48c8-8048-4ca61dbdefd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@id='creerViewActivitePrimaire:formActivitePrimaire:arbry:Item [id=11816, libelle=ACTIVITEacute;S EXTRA-TERRITORIALES]:Item [id=10654, libelle=Activiteacute;s des organisations et organismes extraterritoriaux]:Item [id=10928, libelle=Activiteacute;s des organisations et organismes extraterritoriaux]::treeNode:handle:img:collapsed']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0bcb349b-1ec9-4f69-b4ff-4cde01cfe0bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rich-tree-node-handleicon-collapsed</value>
+      <webElementGuid>cdf47273-43f3-4ecd-98bf-2da5515e7a77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>creerViewActivitePrimaire:formActivitePrimaire:arbry:Item [id=11816, libelle=ACTIVITEacute;S EXTRA-TERRITORIALES]:Item [id=10654, libelle=Activiteacute;s des organisations et organismes extraterritoriaux]:Item [id=10928, libelle=Activiteacute;s des organisations et organismes extraterritoriaux]::treeNode:handle:img:collapsed</value>
+      <webElementGuid>836a5448-30b0-47cc-9565-cf06e0bd4ff1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/Guichet/images/commun/puce-plus.gif</value>
+      <webElementGuid>5e9d01c1-7067-4ae7-a640-e6580196cf5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;creerViewActivitePrimaire:formActivitePrimaire:arbry:Item [id=11816, libelle=ACTIVITEacute;S EXTRA-TERRITORIALES]:Item [id=10654, libelle=Activiteacute;s des organisations et organismes extraterritoriaux]:Item [id=10928, libelle=Activiteacute;s des organisations et organismes extraterritoriaux]::treeNode:handle:img:collapsed&quot;)</value>
+      <webElementGuid>618b53e1-5a6c-4e15-b1d0-1f6bfffa9c45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//img[@id='creerViewActivitePrimaire:formActivitePrimaire:arbry:Item [id=11816, libelle=ACTIVITEacute;S EXTRA-TERRITORIALES]:Item [id=10654, libelle=Activiteacute;s des organisations et organismes extraterritoriaux]:Item [id=10928, libelle=Activiteacute;s des organisations et organismes extraterritoriaux]::treeNode:handle:img:collapsed']</value>
+      <webElementGuid>cd86533a-e0a1-47e4-bdf3-d475b890f11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='creerViewActivitePrimaire:formActivitePrimaire:arbry:Item [id=11816, libelle=ACTIVITEacute;S EXTRA-TERRITORIALES]:Item [id=10654, libelle=Activiteacute;s des organisations et organismes extraterritoriaux]:Item [id=10928, libelle=Activiteacute;s des organisations et organismes extraterritoriaux]::treeNode:handle']/img</value>
+      <webElementGuid>b8fb99a0-4f08-410e-9470-a1d8308d27c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/table/tbody/tr/td/div/a/img</value>
+      <webElementGuid>30580210-0d86-4d75-9e4b-4c6594459b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@id = 'creerViewActivitePrimaire:formActivitePrimaire:arbry:Item [id=11816, libelle=ACTIVITEacute;S EXTRA-TERRITORIALES]:Item [id=10654, libelle=Activiteacute;s des organisations et organismes extraterritoriaux]:Item [id=10928, libelle=Activiteacute;s des organisations et organismes extraterritoriaux]::treeNode:handle:img:collapsed' and @src = '/Guichet/images/commun/puce-plus.gif']</value>
+      <webElementGuid>3e1bcd56-97b2-4b54-8fd3-08648e531f6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yassine Ismaili</name>
+   <tag></tag>
+   <elementGuidId>11a8cddb-7536-47a6-a062-4700b08b55e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='e_ZwZjAmV1ZGRjAGZkZQNjAQNjZQN0ZD==']/button/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.lmf</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e0a511c6-9199-456f-8382-10fdbd9957c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lmf</value>
+      <webElementGuid>be623887-96f6-4122-985f-61159bd508b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yassine Ismaili</value>
+      <webElementGuid>60381ad5-a51b-489d-9724-e67af8893154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e_ZwZjAmV1ZGRjAGZkZQNjAQNjZQN0ZD==&quot;)/button[@class=&quot;lm&quot;]/div[@class=&quot;lmfd&quot;]/span[@class=&quot;lmf&quot;]</value>
+      <webElementGuid>ec9b2573-66e9-453e-b0bd-ec8275e8f301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Gogle/Page_Boite de rception/iframe_Undo_ifinbox</value>
+      <webElementGuid>1d4e4a04-7a36-4186-a2b6-cdcd9a992f1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='e_ZwZjAmV1ZGRjAGZkZQNjAQNjZQN0ZD==']/button/div/span[2]</value>
+      <webElementGuid>a2dac36f-4c34-41ca-975a-b4f3bbc94747</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('aujourd', &quot;'&quot;, 'hui')])[1]/following::span[2]</value>
+      <webElementGuid>278598cb-b6ff-4b83-babc-d0f35219a425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jqhkdjqkjdqkdj'])[1]/preceding::span[1]</value>
+      <webElementGuid>b60f71ac-f546-4b37-9283-c9c7a06b8f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yassine Ismaili']/parent::*</value>
+      <webElementGuid>49139951-ef7b-4b34-adf7-8cb2f1dd849c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>4f1f0c14-227b-4e56-ab9e-127867713dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Yassine Ismaili' or . = 'Yassine Ismaili')]</value>
+      <webElementGuid>489f771e-cf22-49d2-9f59-a96f6a74a500</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

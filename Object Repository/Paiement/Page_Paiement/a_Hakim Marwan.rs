@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hakim Marwan</name>
+   <tag></tag>
+   <elementGuidId>d0b776ac-b74a-460f-b631-f03c92b59793</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#j_id14 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='j_id14']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c013ab86-128c-4920-a117-d6fbc296d6e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Guichet/accueil.jsf</value>
+      <webElementGuid>f6e9d8f4-61ff-461a-85b0-fa3adf536b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>no</value>
+      <webElementGuid>7cc4f0d3-94b7-4e88-8c52-0307d031b8c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hakim Marwan</value>
+      <webElementGuid>bae100d5-2c5a-4689-81c9-78c7a618e90a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;j_id14&quot;)/a[1]</value>
+      <webElementGuid>970745d6-5857-4f4a-937b-fb9e8d4edcfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='j_id14']/a</value>
+      <webElementGuid>380b3638-58f8-4a8b-8a53-078ee3df4a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Hakim Marwan')]</value>
+      <webElementGuid>4b672964-2aba-46b1-9de2-22203ed94557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Langues'])[1]/following::a[3]</value>
+      <webElementGuid>ed2e2163-a3b0-44ee-bd0e-9efc55fc41f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='direct'])[1]/preceding::a[3]</value>
+      <webElementGuid>b2df2b3d-2d2e-44cf-a248-72298cb5ccc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='entreprise'])[1]/preceding::a[3]</value>
+      <webElementGuid>62ff95b5-eb59-4eaa-944c-5a390ff903ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hakim Marwan']/parent::*</value>
+      <webElementGuid>ae7c29d7-c210-47df-9569-0bf5dc800e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Guichet/accueil.jsf')]</value>
+      <webElementGuid>f123c5fa-b5df-4ab6-8424-771139cf6349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/a</value>
+      <webElementGuid>e8a624f9-d2c0-43f6-a8b1-311381132181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Guichet/accueil.jsf' and (text() = 'Hakim Marwan' or . = 'Hakim Marwan')]</value>
+      <webElementGuid>03d1fa74-1956-423b-bbc8-207024a8a31a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

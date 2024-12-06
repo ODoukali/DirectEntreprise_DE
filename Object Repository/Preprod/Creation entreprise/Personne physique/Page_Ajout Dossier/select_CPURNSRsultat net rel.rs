@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_CPURNSRsultat net rel</name>
+   <tag></tag>
+   <elementGuidId>b407766b-4932-4625-8684-dce54b87642b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='dossierForm:refAssujetissementIr']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Option d’imposition à IR*&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>96625b90-09cb-4f1b-a440-b4b86470ec27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dossierForm:refAssujetissementIr</value>
+      <webElementGuid>144cc605-2a9e-4a76-ae0f-b8af73280898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>dossierForm:refAssujetissementIr</value>
+      <webElementGuid>1db9fb9a-ca22-48d8-b7a2-e60c223feb93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>6899dfd0-68b7-4b89-b393-ee2fc7db3298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>166851ba-9791-424f-8c84-89cc16831ae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>no</value>
+      <webElementGuid>27ed60e5-b183-4327-a381-89e6a27c26f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>15b61fc8-4809-49e6-a8c3-01c23e520a77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>	
+	CPU
+	RNS
+	Résultat net réel
+</value>
+      <webElementGuid>1c0c0098-8c6d-4e15-ab1b-eba1cc3cb5d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dossierForm:refAssujetissementIr&quot;)</value>
+      <webElementGuid>0a8583f9-a020-4ced-bd36-b68255a627d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='dossierForm:refAssujetissementIr']</value>
+      <webElementGuid>51308d8f-71ba-4cfb-a68b-a27787f9e77e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dossierForm:panelOrigineFond_body']/div/div/select</value>
+      <webElementGuid>f45545c2-8e55-4376-b4be-9ec7b9e36a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[1]</value>
+      <webElementGuid>bff770e7-0be2-49a1-9422-9bbfe1283b5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Avant de commencer'])[1]/preceding::select[1]</value>
+      <webElementGuid>7f4744e0-c2f4-41ce-b4e3-f47331b960bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INDICATIONS fiscales'])[1]/preceding::select[1]</value>
+      <webElementGuid>8ad7e2af-e907-40dd-bd80-eb3976a04214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/select</value>
+      <webElementGuid>9cca204c-87e4-4aa7-b5c0-03b1e60a1a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'dossierForm:refAssujetissementIr' and @name = 'dossierForm:refAssujetissementIr' and (text() = '	
+	CPU
+	RNS
+	Résultat net réel
+' or . = '	
+	CPU
+	RNS
+	Résultat net réel
+')]</value>
+      <webElementGuid>14e2b60f-231f-46ba-9206-329037760355</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

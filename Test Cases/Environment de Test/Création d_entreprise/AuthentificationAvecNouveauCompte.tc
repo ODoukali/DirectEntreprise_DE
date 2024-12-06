@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AuthentificationAvecNouveauCompte</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d64b537-f555-489d-a09b-2615476b5777</testCaseGuid>
+</TestCaseEntity>

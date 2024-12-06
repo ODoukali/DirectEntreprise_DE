@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_ACTIVITS DE SERVICES ADMINISTRATIFS ET _cb8f5a</name>
+   <tag></tag>
+   <elementGuidId>7400daf8-a0e6-45c7-a7fb-d9bf824f1668</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@id='creerViewActivitePrimaire:formActivitePrimaire:arbry:Item [id=11816, libelle=ACTIVITEacute;S EXTRA-TERRITORIALES]::treeNode:handle:img:collapsed']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ae7508de-7e72-466b-b6be-2b4df77b3968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rich-tree-node-handleicon-collapsed</value>
+      <webElementGuid>3b4e3471-a9f9-400e-8c80-8e6e65b4c173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>creerViewActivitePrimaire:formActivitePrimaire:arbry:Item [id=11816, libelle=ACTIVITEacute;S EXTRA-TERRITORIALES]::treeNode:handle:img:collapsed</value>
+      <webElementGuid>28f4d87b-88f8-48e2-896c-797b7b116cd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/Guichet/images/commun/puce-plus.gif</value>
+      <webElementGuid>a98ae308-dc36-4f35-b58b-753d01665ed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;creerViewActivitePrimaire:formActivitePrimaire:arbry:Item [id=11816, libelle=ACTIVITEacute;S EXTRA-TERRITORIALES]::treeNode:handle:img:collapsed&quot;)</value>
+      <webElementGuid>05e19c86-2c1c-42a7-9e13-0f74ddfddac0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//img[@id='creerViewActivitePrimaire:formActivitePrimaire:arbry:Item [id=11816, libelle=ACTIVITEacute;S EXTRA-TERRITORIALES]::treeNode:handle:img:collapsed']</value>
+      <webElementGuid>6699fce9-f124-4a5d-b03c-42607969913e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='creerViewActivitePrimaire:formActivitePrimaire:arbry:Item [id=11816, libelle=ACTIVITEacute;S EXTRA-TERRITORIALES]::treeNode:handle']/img</value>
+      <webElementGuid>d17a5aa2-ae5f-46e7-a7f4-35161eb2a8ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div[2]/table/tbody/tr[2]/td/span/form/div/div/table[3]/tbody/tr/td/div/a/img</value>
+      <webElementGuid>497d3ef9-a219-434a-8d10-7fcff63b7dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@id = 'creerViewActivitePrimaire:formActivitePrimaire:arbry:Item [id=11816, libelle=ACTIVITEacute;S EXTRA-TERRITORIALES]::treeNode:handle:img:collapsed' and @src = '/Guichet/images/commun/puce-plus.gif']</value>
+      <webElementGuid>012093e2-059a-474d-b8db-5fe31b4205a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

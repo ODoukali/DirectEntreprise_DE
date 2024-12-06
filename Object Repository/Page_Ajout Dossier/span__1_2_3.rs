@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__1_2_3</name>
+   <tag></tag>
+   <elementGuidId>d47ee8d9-6cbc-4e30-b73d-cc643cce9aab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui-keyboard-button.ui-keyboard-1587.ui-state-default.ui-corner-all.ui-state-hover > span.ui-keyboard-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gerantPersPhysPopUpForm:nomArInGerantPersPhys_keyboard']/div/button[30]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7337d0ee-6f0f-4618-ae2e-81a1d9a433d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-keyboard-text</value>
+      <webElementGuid>033d900c-4085-49f2-8654-71af673d0786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>س</value>
+      <webElementGuid>aa22dd88-91c8-40fe-86e3-4455f5ee596a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gerantPersPhysPopUpForm:nomArInGerantPersPhys_keyboard&quot;)/div[@class=&quot;ui-keyboard-keyset ui-keyboard-keyset-normal&quot;]/button[@class=&quot;ui-keyboard-button ui-keyboard-1587 ui-state-default ui-corner-all ui-state-hover&quot;]/span[@class=&quot;ui-keyboard-text&quot;]</value>
+      <webElementGuid>6bd5a7f2-8e57-448a-a7d6-2b63901a68ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gerantPersPhysPopUpForm:nomArInGerantPersPhys_keyboard']/div/button[30]/span</value>
+      <webElementGuid>fa9feb0f-0a37-4237-adc7-19c91260114b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ش'])[1]/following::span[1]</value>
+      <webElementGuid>900853e3-17e0-42a5-ab18-8b1fe23b612f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='\'])[1]/following::span[2]</value>
+      <webElementGuid>3844892a-1232-4416-ae9c-26836c037dbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ي'])[1]/preceding::span[1]</value>
+      <webElementGuid>34d694a3-7c91-4c7a-9d5e-6e3d828dce22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ب'])[1]/preceding::span[2]</value>
+      <webElementGuid>d215b4ed-9d63-46bd-8daa-145ad89faa24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='س']/parent::*</value>
+      <webElementGuid>7d3c44c9-ad27-4790-b8e1-ea2ee7820ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[30]/span</value>
+      <webElementGuid>6bf7b3f9-2198-416b-83bd-2c08a269143b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'س' or . = 'س')]</value>
+      <webElementGuid>a6da2e6c-5bbe-4012-ae4b-ede5a7bd5de5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

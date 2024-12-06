@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__1</name>
+   <tag></tag>
+   <elementGuidId>f04d4be6-5256-4f8c-a94e-ef7aff203e8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='webmail']/div/div/main/div[2]/div/div/div/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.md.but.textu.f24 > i.material-icons-outlined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8f1f38b2-f22c-4f40-b601-24e6e0da4e19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons-outlined</value>
+      <webElementGuid>93db9ef2-032d-4532-ae67-3530315af35d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>8a2ee452-12c8-4ae6-970e-35b4f2e7f837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;webmail&quot;)/div[@class=&quot;webmaillogo&quot;]/div[@class=&quot;ymain&quot;]/main[1]/div[@class=&quot;wmmain&quot;]/div[@class=&quot;wmleft&quot;]/div[@class=&quot;wminbox&quot;]/div[@class=&quot;wminboxheader&quot;]/div[1]/button[@class=&quot;md but textu f24&quot;]/i[@class=&quot;material-icons-outlined&quot;]</value>
+      <webElementGuid>e728f11c-945f-4ee6-bd86-3fa08c9e7b5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='webmail']/div/div/main/div[2]/div/div/div/div/button/i</value>
+      <webElementGuid>9b30d6eb-6c22-41a5-81a4-12f1c68e159f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy to clipboard'])[1]/following::i[1]</value>
+      <webElementGuid>cb82a128-c6e9-4e73-8981-764577b3ab12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::i[1]</value>
+      <webElementGuid>5dc9e655-8809-4bc3-99e9-0fa0a7c280e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::i[1]</value>
+      <webElementGuid>1fb4c14f-aea8-4e7f-b034-3f428e9f5d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vider toute la boite'])[1]/preceding::i[2]</value>
+      <webElementGuid>78d6000e-4c03-441a-85dc-d4670e5cba78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>9cdffbc0-2776-4467-acb3-010c7a0b56a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button/i</value>
+      <webElementGuid>9afe0822-7681-49f7-804d-613776531eab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = '' or . = '')]</value>
+      <webElementGuid>cfb9cdf5-6214-4124-a579-97a89df1d120</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Today</name>
+   <tag></tag>
+   <elementGuidId>f9f5026f-dedf-4901-bce1-76641247d7bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@onclick=&quot;Richfaces.getComponent('calendar',this).today();return true;&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.rich-calendar-tool-btn.rich-calendar-tool-btn-hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Today&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>43e487f8-3405-40a7-86c0-a3c7405c5509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>Richfaces.getComponent('calendar',this).today();return true;</value>
+      <webElementGuid>d082f0b0-f890-497b-a081-f41353169b6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rich-calendar-tool-btn rich-calendar-tool-btn-hover</value>
+      <webElementGuid>ae2d5e51-c65b-474c-8e98-c778313c5008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseover</name>
+      <type>Main</type>
+      <value>this.className='rich-calendar-tool-btn rich-calendar-tool-btn-hover'</value>
+      <webElementGuid>a8deecfa-6bc0-49f0-a8cf-b02cc6664bf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseout</name>
+      <type>Main</type>
+      <value>this.className='rich-calendar-tool-btn'</value>
+      <webElementGuid>c50fd11d-6c58-44b5-90fb-e766920cf1a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmousedown</name>
+      <type>Main</type>
+      <value>this.className='rich-calendar-tool-btn rich-calendar-tool-btn-hover rich-calendar-tool-btn-press'</value>
+      <webElementGuid>c2a578fc-590e-4073-a07e-2dd7f9e0cc5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseup</name>
+      <type>Main</type>
+      <value>this.className='rich-calendar-tool-btn rich-calendar-tool-btn-hover'</value>
+      <webElementGuid>3c4f0da1-4532-4772-8fb9-ff16907bd9bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Today</value>
+      <webElementGuid>2eef2757-5a31-486c-95f3-cf5e389f0ecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;demandeAdhesionAnonymeForm:dateNaissanceFooter&quot;)/table[1]/tbody[1]/tr[1]/td[@class=&quot;rich-calendar-toolfooter&quot;]/div[@class=&quot;rich-calendar-tool-btn rich-calendar-tool-btn-hover&quot;]</value>
+      <webElementGuid>2e773dbb-78c0-4fa3-8a1c-a759adc893c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@onclick=&quot;Richfaces.getComponent('calendar',this).today();return true;&quot;]</value>
+      <webElementGuid>5c138b8b-2bf7-4604-9eca-16a4bf860a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='demandeAdhesionAnonymeForm:dateNaissanceFooter']/table/tbody/tr/td[5]/div</value>
+      <webElementGuid>09176b46-fc64-4ae4-933e-963a37adc477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dim.'])[1]/following::div[1]</value>
+      <webElementGuid>94035f91-ece7-4124-8210-6e0820534bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sam.'])[1]/following::div[1]</value>
+      <webElementGuid>1b370491-a64d-4d48-8444-7c74174f61c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/preceding::div[2]</value>
+      <webElementGuid>500a53cf-a002-4850-85aa-3198d4946039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Today']/parent::*</value>
+      <webElementGuid>03673325-7d15-4437-a383-9dd6dd3e87fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[9]/td/table/tbody/tr/td[5]/div</value>
+      <webElementGuid>5a54fbfe-2f66-4b1b-ab21-58b2b89d1186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Today' or . = 'Today')]</value>
+      <webElementGuid>913d8a12-c410-4209-89d2-126fff2aedc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

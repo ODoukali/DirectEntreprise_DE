@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Création de Compte</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fa01b478-0bcd-47d3-b7da-03bd4fca7d96</testCaseGuid>
+</TestCaseEntity>

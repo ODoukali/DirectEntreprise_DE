@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Création d_entreprise</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6de06cc2-2d8b-4c44-90dd-46f336bcfa20</testCaseGuid>
+</TestCaseEntity>

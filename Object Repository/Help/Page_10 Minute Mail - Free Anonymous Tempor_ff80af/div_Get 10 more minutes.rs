@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Get 10 more minutes</name>
+   <tag></tag>
+   <elementGuidId>052eea88-4897-4864-9516-ec020886c2e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='get_more_time']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#get_more_time</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0c9dd646-e86f-43ac-9354-e396db8d0813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>get_more_time</value>
+      <webElementGuid>6f9055f9-c9fa-4aa9-a366-070084939e41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get 10 more minutes</value>
+      <webElementGuid>7237c82a-6e52-4cda-9487-aff178aead4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;get_more_time&quot;)</value>
+      <webElementGuid>912297ff-22d0-4365-845b-218d6a7f995d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='get_more_time']</value>
+      <webElementGuid>50eafa98-be71-4b33-86aa-8f602fc507a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main_content']/div/div/div[8]</value>
+      <webElementGuid>2e5ae9f4-4d44-426d-aa1d-ae1a229bd0f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beat SPAM with the best disposable email service'])[1]/following::div[20]</value>
+      <webElementGuid>4cfcc1cb-896e-4a5c-bb58-854bc40bcee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free Temporary Email'])[1]/preceding::div[1]</value>
+      <webElementGuid>db6a98b6-269c-4734-90f1-56d022509f9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why would you use this?'])[1]/preceding::div[1]</value>
+      <webElementGuid>9b489294-395b-4ea5-85e3-89f9556f28d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get 10 more minutes']/parent::*</value>
+      <webElementGuid>bb3151a8-9f6e-4e03-9127-047a49da68aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]</value>
+      <webElementGuid>2deeca48-f804-4bf2-a2b1-ade0bed9816f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'get_more_time' and (text() = 'Get 10 more minutes' or . = 'Get 10 more minutes')]</value>
+      <webElementGuid>e09839f5-d9f8-477c-a057-f2fab42498c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

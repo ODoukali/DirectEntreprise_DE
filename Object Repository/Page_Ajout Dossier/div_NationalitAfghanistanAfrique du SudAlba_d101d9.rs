@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NationalitAfghanistanAfrique du SudAlba_d101d9</name>
+   <tag></tag>
+   <elementGuidId>aaaf6d4e-468c-4ac8-887d-fbb4e61f7afc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='gerantPersPhysPopUpForm']/div[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca3eaddc-432d-45fd-89b7-1031ace59ec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group col-md-4</value>
+      <webElementGuid>0c1ae940-9a8e-403e-a944-a4f9a14ba927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>7ab0ce48-9e86-4c7a-8d1a-6f826ae99fcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nationalité*AfghanistanAfrique du SudAlbanieAlgérieAllemagneAndorreAngolaAnguillaAntarctiqueAntigua-et-BarbudaArabie SaouditeArgentineArménieArubaAustralieAutricheAzerbaïdjanBahamasBahreïnBangladeshBarbadeBelgiqueBelizeBermudesBhoutanBiélorussieBolivieBosnie-HerzégovineBotswanaBritish Virgin IslandsBrunei DarussalamBrésilBulgarieBurkina FasoBurundiBéninCambodgeCamerounCanadaCap-VertChiliChineChypreColombieComoresCorée du NordCorée du SudCosta RicaCroatieCubaCôte d’IvoireDanemarkDjiboutiDominiqueEspagneEstonieEswatiniFidjiFinlandeFranceGabonGambieGhanaGibraltarGrenadeGroenlandGrèceGuadeloupeGuamGuatemalaGuerneseyGuinéeGuinée équatorialeGuinée-BissauGuyaneGuyane françaiseGéorgieGéorgie du Sud et les îles Sandwich du SudHaïtiHondurasHong KongHongrieIle de ManIles CaymanIndeIndonésieIrakIranIrlandeIslandeItalieJamaïqueJaponJerseyJordanieKazakhstanKenyaKirghizistanKiribatiKoweïtLaosLesothoLettonieLibanLibyeLibériaLiechtensteinLituanieLuxembourgMacaoMacédoineMadagascarMalaisieMalawiMaldivesMaliMalteMarocMartiniqueMauriceMauritanieMayotteMexiqueMicronésieMoldavieMonacoMongolieMontserratMonténégroMozambiqueMyanmarNamibieNauruNicaraguaNigerNigeriaNiueNorvègeNouvelle-CalédonieNouvelle-ZélandeNépalOmanOugandaOuzbékistanPakistanPalauPalestinePanamaPapouasie-Nouvelle-GuinéeParaguayPays-BasPhilippinesPitcairnPolognePolynésie françaisePortugalPuerto RicoPérouQatarRoumanieRoyaume-UniRussieRwandaRépublique centrafricaineRépublique dominicaineRépublique du CongoRépublique démocratique du CongoRépublique tchèqueRéunionSaint-BarthélemySaint-Kitts-et-NevisSaint-MarinSaint-Martin (partie française)Saint-Martin (partie néerlandaise)Saint-Pierre-et-MiquelonSaint-Siège (Vatican)Saint-Vincent-et-les GrenadinesSainte-HélèneSainte-LucieSalvadorSamoaSamoa américainesSao Tomé-et-PrincipeSerbieSeychellesSierra LeoneSingapourSlovaquieSlovénieSomalieSoudanSri LankaSud-SoudanSuisseSurinameSuèdeSvalbard et Jan MayenSyrieSénégalTadjikistanTaiwanTanzanieTchadTerres australes et antarctiques françaisesTerritoire britannique de l’Océan IndienThaïlandeTimor-LesteTogoTokelauTongaTrinité-et-TobagoTunisieTurkménistanTurquieTuvaluUkraineUruguayVanuatuVenezuelaViêt NamWallis-et-FutunaYémenZambieZimbabweÉgypteÉmirats Arabes UnisÉquateurÉrythréeÉtats-UnisÉthiopieÎle BouvetÎle ChristmasÎle NorfolkÎles CocosÎles CookÎles FalklandÎles FéroéÎles Heard-et-MacDonaldÎles Mariannes du NordÎles MarshallÎles mineures éloignées des États-UnisÎles SalomonÎles Turques-et-CaïquesÎles Vierges américainesÎles Åland</value>
+      <webElementGuid>8060e38f-6af0-4430-b1a2-d383a6a016df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gerantPersPhysPopUpForm&quot;)/div[@class=&quot;form-group col-md-4&quot;]</value>
+      <webElementGuid>f319ee53-64d3-4834-b506-cc527ff15af4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='gerantPersPhysPopUpForm']/div[10]</value>
+      <webElementGuid>bb2db517-f7f8-4633-ade5-0cca0e39a943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[112]/following::div[1]</value>
+      <webElementGuid>5c4e88bd-5cac-4307-a0a5-85fc44862c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div[2]/table/tbody/tr[2]/td/form/div[10]</value>
+      <webElementGuid>8656d621-16c4-435a-b0af-d8c7dbc2e21c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nationalité*AfghanistanAfrique du SudAlbanieAlgérieAllemagneAndorreAngolaAnguillaAntarctiqueAntigua-et-BarbudaArabie SaouditeArgentineArménieArubaAustralieAutricheAzerbaïdjanBahamasBahreïnBangladeshBarbadeBelgiqueBelizeBermudesBhoutanBiélorussieBolivieBosnie-HerzégovineBotswanaBritish Virgin IslandsBrunei DarussalamBrésilBulgarieBurkina FasoBurundiBéninCambodgeCamerounCanadaCap-VertChiliChineChypreColombieComoresCorée du NordCorée du SudCosta RicaCroatieCubaCôte d’IvoireDanemarkDjiboutiDominiqueEspagneEstonieEswatiniFidjiFinlandeFranceGabonGambieGhanaGibraltarGrenadeGroenlandGrèceGuadeloupeGuamGuatemalaGuerneseyGuinéeGuinée équatorialeGuinée-BissauGuyaneGuyane françaiseGéorgieGéorgie du Sud et les îles Sandwich du SudHaïtiHondurasHong KongHongrieIle de ManIles CaymanIndeIndonésieIrakIranIrlandeIslandeItalieJamaïqueJaponJerseyJordanieKazakhstanKenyaKirghizistanKiribatiKoweïtLaosLesothoLettonieLibanLibyeLibériaLiechtensteinLituanieLuxembourgMacaoMacédoineMadagascarMalaisieMalawiMaldivesMaliMalteMarocMartiniqueMauriceMauritanieMayotteMexiqueMicronésieMoldavieMonacoMongolieMontserratMonténégroMozambiqueMyanmarNamibieNauruNicaraguaNigerNigeriaNiueNorvègeNouvelle-CalédonieNouvelle-ZélandeNépalOmanOugandaOuzbékistanPakistanPalauPalestinePanamaPapouasie-Nouvelle-GuinéeParaguayPays-BasPhilippinesPitcairnPolognePolynésie françaisePortugalPuerto RicoPérouQatarRoumanieRoyaume-UniRussieRwandaRépublique centrafricaineRépublique dominicaineRépublique du CongoRépublique démocratique du CongoRépublique tchèqueRéunionSaint-BarthélemySaint-Kitts-et-NevisSaint-MarinSaint-Martin (partie française)Saint-Martin (partie néerlandaise)Saint-Pierre-et-MiquelonSaint-Siège (Vatican)Saint-Vincent-et-les GrenadinesSainte-HélèneSainte-LucieSalvadorSamoaSamoa américainesSao Tomé-et-PrincipeSerbieSeychellesSierra LeoneSingapourSlovaquieSlovénieSomalieSoudanSri LankaSud-SoudanSuisseSurinameSuèdeSvalbard et Jan MayenSyrieSénégalTadjikistanTaiwanTanzanieTchadTerres australes et antarctiques françaisesTerritoire britannique de l’Océan IndienThaïlandeTimor-LesteTogoTokelauTongaTrinité-et-TobagoTunisieTurkménistanTurquieTuvaluUkraineUruguayVanuatuVenezuelaViêt NamWallis-et-FutunaYémenZambieZimbabweÉgypteÉmirats Arabes UnisÉquateurÉrythréeÉtats-UnisÉthiopieÎle BouvetÎle ChristmasÎle NorfolkÎles CocosÎles CookÎles FalklandÎles FéroéÎles Heard-et-MacDonaldÎles Mariannes du NordÎles MarshallÎles mineures éloignées des États-UnisÎles SalomonÎles Turques-et-CaïquesÎles Vierges américainesÎles Åland' or . = 'Nationalité*AfghanistanAfrique du SudAlbanieAlgérieAllemagneAndorreAngolaAnguillaAntarctiqueAntigua-et-BarbudaArabie SaouditeArgentineArménieArubaAustralieAutricheAzerbaïdjanBahamasBahreïnBangladeshBarbadeBelgiqueBelizeBermudesBhoutanBiélorussieBolivieBosnie-HerzégovineBotswanaBritish Virgin IslandsBrunei DarussalamBrésilBulgarieBurkina FasoBurundiBéninCambodgeCamerounCanadaCap-VertChiliChineChypreColombieComoresCorée du NordCorée du SudCosta RicaCroatieCubaCôte d’IvoireDanemarkDjiboutiDominiqueEspagneEstonieEswatiniFidjiFinlandeFranceGabonGambieGhanaGibraltarGrenadeGroenlandGrèceGuadeloupeGuamGuatemalaGuerneseyGuinéeGuinée équatorialeGuinée-BissauGuyaneGuyane françaiseGéorgieGéorgie du Sud et les îles Sandwich du SudHaïtiHondurasHong KongHongrieIle de ManIles CaymanIndeIndonésieIrakIranIrlandeIslandeItalieJamaïqueJaponJerseyJordanieKazakhstanKenyaKirghizistanKiribatiKoweïtLaosLesothoLettonieLibanLibyeLibériaLiechtensteinLituanieLuxembourgMacaoMacédoineMadagascarMalaisieMalawiMaldivesMaliMalteMarocMartiniqueMauriceMauritanieMayotteMexiqueMicronésieMoldavieMonacoMongolieMontserratMonténégroMozambiqueMyanmarNamibieNauruNicaraguaNigerNigeriaNiueNorvègeNouvelle-CalédonieNouvelle-ZélandeNépalOmanOugandaOuzbékistanPakistanPalauPalestinePanamaPapouasie-Nouvelle-GuinéeParaguayPays-BasPhilippinesPitcairnPolognePolynésie françaisePortugalPuerto RicoPérouQatarRoumanieRoyaume-UniRussieRwandaRépublique centrafricaineRépublique dominicaineRépublique du CongoRépublique démocratique du CongoRépublique tchèqueRéunionSaint-BarthélemySaint-Kitts-et-NevisSaint-MarinSaint-Martin (partie française)Saint-Martin (partie néerlandaise)Saint-Pierre-et-MiquelonSaint-Siège (Vatican)Saint-Vincent-et-les GrenadinesSainte-HélèneSainte-LucieSalvadorSamoaSamoa américainesSao Tomé-et-PrincipeSerbieSeychellesSierra LeoneSingapourSlovaquieSlovénieSomalieSoudanSri LankaSud-SoudanSuisseSurinameSuèdeSvalbard et Jan MayenSyrieSénégalTadjikistanTaiwanTanzanieTchadTerres australes et antarctiques françaisesTerritoire britannique de l’Océan IndienThaïlandeTimor-LesteTogoTokelauTongaTrinité-et-TobagoTunisieTurkménistanTurquieTuvaluUkraineUruguayVanuatuVenezuelaViêt NamWallis-et-FutunaYémenZambieZimbabweÉgypteÉmirats Arabes UnisÉquateurÉrythréeÉtats-UnisÉthiopieÎle BouvetÎle ChristmasÎle NorfolkÎles CocosÎles CookÎles FalklandÎles FéroéÎles Heard-et-MacDonaldÎles Mariannes du NordÎles MarshallÎles mineures éloignées des États-UnisÎles SalomonÎles Turques-et-CaïquesÎles Vierges américainesÎles Åland')]</value>
+      <webElementGuid>822b5bee-60d2-45e0-b989-7d4d18be3252</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__1</name>
+   <tag></tag>
+   <elementGuidId>6794d7dd-6b3d-4c74-9141-18d0ddf68b8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui-keyboard-button.ui-keyboard-1604.ui-state-default.ui-corner-all.ui-state-hover > span.ui-keyboard-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dossierForm:objSocialAr_keyboard']/div[2]/button[20]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>deed6a7b-e839-4c8e-b532-771adf2811ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-keyboard-text</value>
+      <webElementGuid>2bee5310-c104-42c0-9896-854cb720e9c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ل</value>
+      <webElementGuid>a955bf99-8c09-4f0f-ae03-f18c3f2db2d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dossierForm:objSocialAr_keyboard&quot;)/div[@class=&quot;ui-keyboard-keyset ui-keyboard-keyset-shift&quot;]/button[@class=&quot;ui-keyboard-button ui-keyboard-1604 ui-state-default ui-corner-all ui-state-hover&quot;]/span[@class=&quot;ui-keyboard-text&quot;]</value>
+      <webElementGuid>f6f7a9b6-3f2c-4dd7-ab7b-ca5a8d0aacf0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dossierForm:objSocialAr_keyboard']/div[2]/button[20]/span</value>
+      <webElementGuid>4c23a016-4bbd-4b59-888c-a9a0f32f6e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ٌ'])[1]/following::span[1]</value>
+      <webElementGuid>750f6d94-b3a6-44e7-be13-ed30f00f073a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ُ'])[1]/following::span[2]</value>
+      <webElementGuid>02f74986-fcea-46f1-9723-ee00542b4de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='إ'])[1]/preceding::span[1]</value>
+      <webElementGuid>a2635bfb-bb1a-4876-a5f0-60a060498f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‘'])[1]/preceding::span[2]</value>
+      <webElementGuid>641db170-a758-496d-a995-6fed4698aedf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[20]/span</value>
+      <webElementGuid>cd70a294-2877-41db-a15e-2620ceb7d26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'ل' or . = 'ل')]</value>
+      <webElementGuid>10d2f16d-f962-4c26-bab4-c2ffcc7a6df1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Prnom en Arabe</name>
+   <tag></tag>
+   <elementGuidId>8c7798d9-4a6e-47b9-86c2-5f68aa01effd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='gerantPersPhysPopUpForm']/div[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>11da24be-1aae-4145-8390-828e61a69723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group col-md-4</value>
+      <webElementGuid>63348fec-2d26-4b92-bf09-b0604ae03092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prénom en Arabe*</value>
+      <webElementGuid>6dd3fec5-ac4a-4834-b154-bd70d48c56fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gerantPersPhysPopUpForm&quot;)/div[@class=&quot;form-group col-md-4&quot;]</value>
+      <webElementGuid>66ee7977-ae12-4478-8054-7e332227bb4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='gerantPersPhysPopUpForm']/div[8]</value>
+      <webElementGuid>461e606e-5def-447b-a7e4-8592f7dc6028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[110]/following::div[1]</value>
+      <webElementGuid>5ffa6087-9c09-4c85-8d06-44df99855615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div[2]/table/tbody/tr[2]/td/form/div[8]</value>
+      <webElementGuid>ffa453a1-05e2-4850-b24c-aacf169b48fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Prénom en Arabe*' or . = 'Prénom en Arabe*')]</value>
+      <webElementGuid>3ea06d2a-35fb-4331-b365-f8e5ddf51a91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

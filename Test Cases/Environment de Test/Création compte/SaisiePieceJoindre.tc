@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>la partie de piece Joindre</description>
+   <name>SaisiePieceJoindre</name>
+   <tag>PJ</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3b91ecfd-a1b6-48d5-bbac-e492da45c3b4</testCaseGuid>
+</TestCaseEntity>

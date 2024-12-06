@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Personne physique</name>
+   <tag></tag>
+   <elementGuidId>8502bbf7-8495-492e-bd79-3fc764188baf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='iconpaiementForm:dossierPP']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Personne physique&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b64a9d8f-e472-47a7-96da-8c0f1b9b106a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rich-pmenu-group-self-label rich-pmenu-group-self-label rich-pmenu-top-group-self-label</value>
+      <webElementGuid>e5812a4b-2bff-4c5f-bb99-fd3b12f850e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>iconpaiementForm:dossierPP</value>
+      <webElementGuid>9fc0bf5e-6d37-4fd2-83be-3b8ee86898d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>no</value>
+      <webElementGuid>699aa9bb-4896-4d73-8666-8f76f089b92e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Personne physique</value>
+      <webElementGuid>9a26e3aa-1f2b-48b2-bf4a-ae114e1e9924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iconpaiementForm:dossierPP&quot;)</value>
+      <webElementGuid>61ca0891-6772-43b9-80c5-6bcb089289ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='iconpaiementForm:dossierPP']</value>
+      <webElementGuid>d9a1cf9b-1ddb-4781-b5ff-86959b417b25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='row_paiementForm:dossierPP']/td[2]</value>
+      <webElementGuid>a4e769f2-fbd5-4c15-a5b6-624871e54650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recherche des dossiers'])[5]/following::td[3]</value>
+      <webElementGuid>9fc577fd-b686-44e4-8883-19314039d639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nouveau dossier'])[5]/following::td[6]</value>
+      <webElementGuid>a53a92b5-eb67-429e-9802-5be8e5ed1b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nouveau dossier'])[6]/preceding::td[3]</value>
+      <webElementGuid>f8fcfca2-5db4-4cbf-b7b2-d58f733d5222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recherche des dossiers'])[6]/preceding::td[6]</value>
+      <webElementGuid>4432f3bc-dc03-443d-a8ca-e68336c373f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Personne physique']/parent::*</value>
+      <webElementGuid>85552a84-c076-4ff0-822b-de53b15d3079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/table/tbody/tr/td[2]</value>
+      <webElementGuid>86693b4f-2066-489c-bf71-be12271f80ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@id = 'iconpaiementForm:dossierPP' and (text() = 'Personne physique' or . = 'Personne physique')]</value>
+      <webElementGuid>7fae9e77-f499-446f-bcd4-c29752b3753f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

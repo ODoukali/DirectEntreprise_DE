@@ -1,0 +1,14 @@
+{
+  "keywordFileContentHash": "FA3F1A1A7AF85F4CCE74987491363374",
+  "keywordClasses": [
+    {
+      "name": "EmailReportListener",
+      "keywordMethods": []
+    },
+    {
+      "name": "EmailReportListener$1",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se connecter avec un nouveau que nous avons activé</description>
+   <name>CompteActiver</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87eb916c-407e-43cc-9280-1b4635be8bba</testCaseGuid>
+</TestCaseEntity>

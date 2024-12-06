@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>L'url de Env de test</description>
+      <initValue>'http://10.10.1.166:8080/Guichet/login.jsf'</initValue>
+      <name>Url_Test</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>L'url de Env de Pré prod</description>
+      <initValue>''</initValue>
+      <name>Url_Pre_Prod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>CaptureMail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\Administrateur\\Downloads\\test.pdf'</initValue>
+      <name>FilePath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Random</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>URL_Activation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>NumDoc</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Imran'</initValue>
+      <name>GetName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Idris'</initValue>
+      <name>GetFirstName</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

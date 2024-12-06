@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Jeux de donnée</description>
+   <name>CaptureEmail</name>
+   <tag>Yopmail</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0bebe235-9fff-470a-84bc-75bf691a94ea</testCaseGuid>
+</TestCaseEntity>
